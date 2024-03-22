@@ -1,6 +1,6 @@
 # Welcome to Omar Enriquez's profile!
 
-I am aspiring to be a software engineer. Currently I am a computer science student who is mangaing with his school work and as well as his personal skills. 
+I am aspiring to be a software engineer. Currently, I am a computer science student who is managing his school work as well as his skills. 
 
 <em><strong>"If you don't take risks, you can't create a future." </strong></em> 
     <em><strong>- Monkey D. Luffy (One Piece) </strong></em>
