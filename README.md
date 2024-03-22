@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome to Omar Enriquez's profile!
 
-<!--
-**Blank-O/Blank-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am aspiring to be a software engineer. Currently I am a computer science student who is mangaing with his school work and as well as his personal skills. 
 
-Here are some ideas to get you started:
+<em><strong>"If you don't take risks, you can't create a future." </strong></em> 
+    <em><strong>- Monkey D. Luffy (One Piece) </strong></em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://i.pinimg.com/originals/76/da/03/76da03c579566626fa270bdb6df1280b.jpg" width="200" height="150" />
+
+  🌱 I’m currently learning :
+  <ul>
+    <li>Data Structures and Algorithms on Java (freeCodeCamp) </li>
+    <li>Korean </li>
+  </ul>
+  🎇 What I want to achieve after:
+  <ul>
+    <li>A personal project that I want to do </li>
+    <li>Javascript </li>
+    <li> Japanese </li>
+    <li>Leetcode problems </li>
+  </ul>
